@@ -1,0 +1,18 @@
+{  
+    "appId":"1",
+    "code":"",
+    "name":"ToDo App",
+    "description":"This is a great app!",
+    "spaceId":"2",
+    "threadId":"3",
+    "createdAt":"2015-03-06T02:24:03.000Z",
+    "creator":{  
+        "code":"user1",
+        "name":"User1"
+    },
+    "modifiedAt":"2015-03-06T03:06:57.000Z",
+    "modifier":{  
+        "code":"login-name",
+        "name":"Display Name"
+    }
+}
